@@ -1,0 +1,21 @@
+/adc.c/1.3/Thu Mar 27 13:04:59 2008//
+/adc.h/1.1/Thu Jun 28 12:52:41 2007//
+/cc1020-internal.h/1.15/Tue Sep 22 16:20:39 2009//
+/cc1020-uip.c/1.1/Mon Dec 17 13:33:09 2007//
+/cc1020-uip.h/1.1/Mon Dec 17 13:33:09 2007//
+/cc1020.c/1.49/Fri Nov  6 17:18:47 2009//
+/cc1020.h/1.11/Thu May 14 12:18:49 2009//
+/dma.c/1.13/Mon Aug 17 11:32:17 2009//
+/dma.h/1.6/Mon Dec 17 15:26:47 2007//
+/infomem.c/1.7/Tue Jul 21 16:56:33 2009//
+/infomem.h/1.3/Mon Aug 20 11:01:14 2007//
+/msb430-uart1.c/1.11/Mon Jun 29 12:46:50 2009//
+/msb430-uart1.h/1.8/Mon Jun 29 12:46:50 2009//
+/rs232.c/1.9/Mon Jun 29 12:46:50 2009//
+/rs232.h/1.6/Mon Jun 29 12:46:50 2009//
+/sd-arch.c/1.4/Fri Nov  6 15:40:15 2009//
+/sd-arch.h/1.3/Tue Nov  3 15:21:43 2009//
+/sd.c/1.5/Sat Nov  7 01:05:23 2009//
+/sd.h/1.4/Sat Nov  7 01:05:23 2009//
+/sht11-arch.h/1.1/Mon Oct 22 12:19:58 2007//
+D

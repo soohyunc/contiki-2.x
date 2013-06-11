@@ -1,0 +1,25 @@
+/clock-avr.h/1.2/Sun Nov  9 15:39:49 2008//
+/clock.c/1.6/Mon Apr  6 13:08:42 2009//
+/compiler.h/1.1/Sat Jun 17 22:41:21 2006//
+/debug.c/1.1/Sat Jun 17 22:41:21 2006//
+/debug.h/1.1/Sat Jun 17 22:41:21 2006//
+/delay.c/1.1/Sat Jun 17 22:41:21 2006//
+/delay.h/1.1/Sat Jun 17 22:41:21 2006//
+/eeprom.c/1.2/Fri Dec 22 17:02:24 2006//
+/flash.c/1.1/Sat Jun 17 22:41:21 2006//
+/flash.h/1.1/Sat Jun 17 22:41:21 2006//
+/lanc111.c/1.1/Sat Jun 17 22:41:21 2006//
+/rs232.c/1.5/Tue Mar 17 20:32:22 2009//
+/rs232.h/1.6/Sat Nov 29 18:36:12 2008//
+/rs232_at90usb1287.h/1.1/Tue Oct 14 19:06:51 2008//
+/rs232_atmega128.h/1.3/Mon Sep  7 12:02:58 2009//
+/rs232_atmega1281.h/1.1/Sun Nov  9 15:39:49 2008//
+/rs232_atmega1284.h/1.1/Tue Oct 14 19:06:51 2008//
+/rtl8019-drv.c/1.2/Sat May 26 23:05:36 2007//
+/rtl8019-drv.h/1.2/Sat May 26 23:05:36 2007//
+/rtl8019.c/1.1/Sat Jun 17 22:41:21 2006//
+/rtl8019.h/1.1/Sat Jun 17 22:41:21 2006//
+/rtl8019dev.c/1.2/Sat May 26 23:05:36 2007//
+/rtl8019dev.h/1.2/Sat May 26 23:05:36 2007//
+/rtlregs.h/1.1/Sat Jun 17 22:41:21 2006//
+D

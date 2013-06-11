@@ -1,0 +1,13 @@
+/Makefile.avr/1.17/Mon Sep  7 12:02:58 2009//
+/avr.c/1.1/Thu Jan 25 18:24:29 2007//
+/avrdef.h/1.2/Tue Dec 11 17:21:14 2007//
+/cc2420_spi.c/1.1/Thu Feb  1 14:46:07 2007//
+/leds-arch.c/1.1/Fri Dec 22 17:05:31 2006//
+/minileds.c/1.1/Fri Dec 22 17:05:31 2006//
+/mtarch.c/1.1/Fri Dec 22 16:55:53 2006//
+/mtarch.h/1.2/Fri Dec 22 16:55:53 2006//
+/rtimer-arch.c/1.5/Mon Sep  7 12:02:58 2009//
+/rtimer-arch.h/1.4/Tue Dec 11 17:21:14 2007//
+/slip_uart1.c/1.1/Fri Feb  2 13:13:16 2007//
+/spi.c/1.1/Thu Jan 25 18:22:55 2007//
+D

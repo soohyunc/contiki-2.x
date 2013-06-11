@@ -1,0 +1,21 @@
+/Makefile.webserver/1.5/Mon Apr 23 21:24:25 2007//
+/http-strings/1.2/Sun Nov  9 12:27:58 2008//
+/http-strings.c/1.3/Sun Nov  9 12:27:58 2008//
+/http-strings.h/1.3/Sun Nov  9 12:27:58 2008//
+/httpd-cfs.c/1.11/Mon Feb  9 13:04:37 2009//
+/httpd-cfs.h/1.2/Mon Apr 23 23:08:44 2007//
+/httpd-cgi.c/1.15/Wed Aug 12 18:23:37 2009//
+/httpd-cgi.h/1.3/Tue Oct 14 11:07:57 2008//
+/httpd-fs.c/1.5/Tue Oct 14 11:07:57 2008//
+/httpd-fs.h/1.3/Tue Oct 14 11:07:57 2008//
+/httpd-fsdata.c/1.5/Tue Oct 14 11:07:57 2008//
+/httpd-fsdata.h/1.1/Sat Jun 17 22:41:14 2006//
+/httpd.c/1.12/Wed Aug 12 18:23:37 2009//
+/httpd.h/1.6/Wed Aug 12 18:23:37 2009//
+/webserver-dsc.c/1.3/Thu Sep  6 01:36:12 2007//
+/webserver-dsc.h/1.1/Sat Jun 17 22:41:14 2006//
+/webserver-nogui.c/1.7/Wed Aug 12 18:23:37 2009//
+/webserver-nogui.h/1.4/Tue Oct 14 11:07:57 2008//
+/webserver.c/1.5/Fri Feb  8 22:53:32 2008//
+/webserver.h/1.2/Mon Apr 23 21:19:55 2007//
+D

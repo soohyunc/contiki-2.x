@@ -1,0 +1,13 @@
+/msc-descriptors.c/1.2/Sat Jul 11 17:34:19 2009//
+/msc-string-descriptors.xml/1.1/Sat Jul 11 14:50:08 2009//
+/rbc_const.h/1.1/Sat Jul 11 15:25:43 2009//
+/rbc_struct.h/1.1/Sat Jul 11 15:25:43 2009//
+/scsi_command.h/1.1/Sat Jul 11 14:43:13 2009//
+/scsi_sense.h/1.1/Sat Jul 11 14:43:13 2009//
+/scsi_struct.h/1.1/Sat Jul 11 14:43:13 2009//
+/spc2_const.h/1.1/Sat Jul 11 15:25:43 2009//
+/spc2_struct.h/1.1/Sat Jul 11 15:25:43 2009//
+/usb-msc-bulk.c/1.2/Sat Jul 11 17:34:19 2009//
+/usb-msc-bulk.h/1.1/Sat Jul 11 14:43:13 2009//
+/usb-rbc.c/1.1/Sat Jul 11 14:50:08 2009//
+D

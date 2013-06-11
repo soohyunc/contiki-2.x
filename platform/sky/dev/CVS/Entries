@@ -1,0 +1,14 @@
+/acc-sensor.c/1.3/Fri May  8 16:03:50 2009//
+/acc-sensor.h/1.1/Thu Jan 15 21:06:02 2009//
+/battery-sensor.c/1.2/Thu Sep 18 21:29:06 2008//
+/button-sensor.c/1.1/Thu Mar 15 21:44:51 2007//
+/ext-sensor.c/1.1/Tue Aug 25 16:24:49 2009//
+/ext-sensor.h/1.1/Tue Aug 25 16:24:49 2009//
+/i2c.c/1.2/Fri Jan 12 13:41:57 2007//
+/i2c.h/1.2/Fri Jan 12 13:41:57 2007//
+/light.c/1.1/Wed Aug  2 14:44:46 2006//
+/light.h/1.1/Wed Aug  2 14:44:46 2006//
+/radio-sensor.c/1.3/Wed Jul  2 09:05:41 2008//
+/sht11-arch.h/1.1/Tue Oct 23 08:53:50 2007//
+/xmem.c/1.10/Mon Sep  7 11:31:26 2009//
+D

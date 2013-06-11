@@ -1,0 +1,15 @@
+/compiler.h/1.1/Tue Oct 14 20:16:36 2008//
+/conf_usb.h/1.1/Tue Oct 14 20:16:36 2008//
+/config.h/1.1/Tue Oct 14 20:16:36 2008//
+/pll_drv.h/1.1/Tue Oct 14 20:16:36 2008//
+/usb_descriptors.c/1.1/Tue Oct 14 20:16:36 2008//
+/usb_descriptors.h/1.1/Tue Oct 14 20:16:36 2008//
+/usb_drv.c/1.1/Tue Oct 14 20:16:36 2008//
+/usb_drv.h/1.1/Tue Oct 14 20:16:36 2008//
+/usb_specific_request.c/1.2/Mon Oct 27 18:03:25 2008//
+/usb_specific_request.h/1.1/Tue Oct 14 20:16:36 2008//
+/usb_standard_request.c/1.1/Tue Oct 14 20:16:36 2008//
+/usb_standard_request.h/1.1/Tue Oct 14 20:16:36 2008//
+/usb_task.c/1.1/Tue Oct 14 20:16:36 2008//
+/usb_task.h/1.1/Tue Oct 14 20:16:37 2008//
+D
